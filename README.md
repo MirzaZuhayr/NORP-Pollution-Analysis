@@ -34,9 +34,9 @@ The data is collected from federal sources such as the EPA, CDC, HRSA, IRS, USDA
 
 - **CDC PLACES: Local Data for Better Health (2020–2024)**  
   - [2024 County Data (GIS Friendly Format)](https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2024-releas/i46a-9kgh)  
-  - [2023 County Data](https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2023-releas/ijsk-6pc9)  
+  - [2023 County Data](https://data.cdc.gov/500-Cities-Places/PLACES-Place-Data-GIS-Friendly-Format-2023-release/xx8k-iu94/about_data)  
   - [2022 County Data](https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2022-releas/xyst-f73f)  
-  - [2021 County Data](https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2021-releas/yfi9-sbe9)  
+  - [2021 County Data](https://data.cdc.gov/500-Cities-Places/PLACES-Census-Tract-Data-GIS-Friendly-Format-2021-/mb5y-ytti/about_data)  
   - [2020 County Data](https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2020-releas/mssc-ksj7)
 
 ---
